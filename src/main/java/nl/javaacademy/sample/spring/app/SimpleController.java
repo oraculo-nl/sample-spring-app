@@ -1,4 +1,4 @@
-package org.sominda.sample.spring.app;
+package nl.javaacademy.sample.spring.app;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;

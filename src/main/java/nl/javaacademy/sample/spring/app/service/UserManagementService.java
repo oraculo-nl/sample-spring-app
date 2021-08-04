@@ -1,6 +1,6 @@
-package org.sominda.sample.spring.app.service;
+package nl.javaacademy.sample.spring.app.service;
 
-import org.sominda.sample.spring.app.model.User;
+import nl.javaacademy.sample.spring.app.model.User;
 import org.springframework.stereotype.Service;
 
 import java.util.ArrayList;

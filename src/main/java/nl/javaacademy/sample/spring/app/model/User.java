@@ -1,4 +1,4 @@
-package org.sominda.sample.spring.app.model;
+package nl.javaacademy.sample.spring.app.model;
 
 /**
  * This is a model of the user object with its attributes.
